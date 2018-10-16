@@ -1,0 +1,1 @@
+INSERT INTO `user` VALUES (1,'superadmin','Super Admin',NULL,NULL,NULL,NULL,NULL,NULL,'admin@rrl.com','772d7a7120985f6b9f7e7b4922fd8e61949fdc9f','3070f792b98f3aa98087faa72826','no','2015-06-23 04:59:29',NULL,'active','superadmin');

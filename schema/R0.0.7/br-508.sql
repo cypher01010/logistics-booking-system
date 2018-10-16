@@ -1,0 +1,1 @@
+ALTER TABLE `delivery` ADD `remarks` VARCHAR(32) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL

@@ -1,0 +1,1 @@
+ALTER TABLE `delivery` CHANGE `status` `status` ENUM('failed','cancelled','delivered','allocated','requested') CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;

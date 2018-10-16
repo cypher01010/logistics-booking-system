@@ -1,0 +1,3 @@
+customer_id,sender_name,sender_company,sender_contact,sender_postal_code,sender_blk_street_name,sender_bldg_name,sender_unit_no,receiver_name,receiver_company,date_delivery,delivery_time,receiver_contact,postal_code,blk_street_name,bldg_name,unit_no,type_products,cartoon_size,cartoon_weight,no_cartoons,driver_id,status
+1,Jet Li,Microsoft,918233,7200,Jurong,Yii Zung,143,Jacky Chan,Apple Singapore,10/4/15,13:30- 17:30,938737,7200,Chui Cho Kang,King,23,42,12,22,45,1,requested
+2,Mao Zeh,IBM,343455,6000,Ang Mo Kio,Ti King,345,Lucy Liu,Adobe System,10/5/15,09:30- 13:00,332423,6000,City Hall,Yu Cho,34,3,4,4,2,3,allocated
